@@ -45,8 +45,6 @@ https://drive.google.com/file/d/1Xr8dEYBNQW8HhDFEjfMvNZAGv32GZgvw/view?usp=shari
 * Example: `python3 camera.py --model ./model_data/cnn_fer2013.pt`
 
 * Example snapshot(take photo button):
-  
-  <img src="./result/surprise1.jpg" style="zoom:50%;" />
 
   <img src="./result/surprise2.jpg" style="zoom:50%;" />
 
